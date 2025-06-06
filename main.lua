@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokécards
---- VERSION: 3.0.0
+--- VERSION: 4.0.0
 
 SMODS.Atlas {
     key = 'modicon',
@@ -32,23 +32,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnDelphoxClubs",
+    key = "DelphoxClubs",
     suit = "Clubs",
     loc_txt = "Delphox",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_clubs_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_clubs_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -69,23 +69,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnDelphoxDiamonds",
+    key = "DelphoxDiamonds",
     suit = "Diamonds",
     loc_txt = "Delphox",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_diamonds_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_diamonds_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -106,23 +106,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnDelphoxHearts",
+    key = "DelphoxHearts",
     suit = "Hearts",
     loc_txt = "Delphox",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_hearts_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_hearts_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -143,23 +143,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnDelphoxSpades",
+    key = "DelphoxSpades",
     suit = "Spades",
     loc_txt = "Delphox",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_spades_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_delphox_spades_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -180,23 +180,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnFlygonClubs",
+    key = "FlygonClubs",
     suit = "Clubs",
     loc_txt = "Flygon",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_clubs_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_clubs_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -217,23 +217,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnFlygonDiamonds",
+    key = "FlygonDiamonds",
     suit = "Diamonds",
     loc_txt = "Flygon",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_diamonds_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_diamonds_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -254,23 +254,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnFlygonHearts",
+    key = "FlygonHearts",
     suit = "Hearts",
     loc_txt = "Flygon",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_hearts_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_hearts_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -291,23 +291,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnFlygonSpades",
+    key = "FlygonSpades",
     suit = "Spades",
     loc_txt = "Flygon",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_spades_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_flygon_spades_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -328,23 +328,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnGoodraClubs",
+    key = "GoodraClubs",
     suit = "Clubs",
     loc_txt = "Goodra",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_clubs_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_clubs_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -365,23 +365,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnGoodraDiamonds",
+    key = "GoodraDiamonds",
     suit = "Diamonds",
     loc_txt = "Goodra",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_diamonds_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_diamonds_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -408,17 +408,17 @@ SMODS.DeckSkin {
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_hearts_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_hearts_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -439,23 +439,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnGoodraSpades",
+    key = "GoodraSpades",
     suit = "Spades",
     loc_txt = "Goodra",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_spades_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_goodra_spades_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -476,23 +476,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnMeowscaradaClubs",
+    key = "MeowscaradaClubs",
     suit = "Clubs",
     loc_txt = "Meowscarada",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_clubs_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_clubs_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -513,23 +513,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnMeowscaradaDiamonds",
+    key = "MeowscaradaDiamonds",
     suit = "Diamonds",
     loc_txt = "Meowscarada",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_diamonds_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_diamonds_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -550,23 +550,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnMeowscaradaHearts",
+    key = "MeowscaradaHearts",
     suit = "Hearts",
     loc_txt = "Meowscarada",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_hearts_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_hearts_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -587,23 +587,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnMeowscaradaSpades",
+    key = "MeowscaradaSpades",
     suit = "Spades",
     loc_txt = "Meowscarada",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_spades_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_meowscarada_spades_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -624,23 +624,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnPrimarinaClubs",
+    key = "PrimarinaClubs",
     suit = "Clubs",
     loc_txt = "Primarina",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_clubs_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_clubs_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -661,23 +661,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnPrimarinaDiamonds",
+    key = "PrimarinaDiamonds",
     suit = "Diamonds",
     loc_txt = "Primarina",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_diamonds_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_diamonds_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -698,23 +698,23 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnPrimarinaHearts",
+    key = "PrimarinaHearts",
     suit = "Hearts",
     loc_txt = "Primarina",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_hearts_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_hearts_hc",
-            pos_style = "collab"
+            pos_style = "suit"
         }
     },
 }
@@ -735,23 +735,467 @@ SMODS.Atlas {
 }
 
 SMODS.DeckSkin {
-    key = "FinnPrimarinaSpades",
+    key = "PrimarinaSpades",
     suit = "Spades",
     loc_txt = "Primarina",
     palettes = {
         {
             key = 'lc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_spades_lc",
-            pos_style = "collab"
+            pos_style = "suit"
         },
         {
             key = 'hc',
-            ranks = { "Jack", "Queen", "King" },
-            display_ranks = { "Jack", "Queen", "King" },
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
             atlas = "finnplayingcards_primarina_spades_hc",
-            pos_style = "collab"
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Scolipede, Clubs ) ///////////////////
+
+SMODS.Atlas {
+    key = "scolipede_clubs_lc",
+    path = "scolipede_clubs_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "scolipede_clubs_hc",
+    path = "scolipede_clubs_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "ScolipedeClubs",
+    suit = "Clubs",
+    loc_txt = "Scolipede",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_clubs_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_clubs_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Scolipede, Diamonds ) ///////////////////
+
+SMODS.Atlas {
+    key = "scolipede_diamonds_lc",
+    path = "scolipede_diamonds_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "scolipede_diamonds_hc",
+    path = "scolipede_diamonds_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "ScolipedeDiamonds",
+    suit = "Diamonds",
+    loc_txt = "Scolipede",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_diamonds_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_diamonds_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Scolipede, Hearts ) ///////////////////
+
+SMODS.Atlas {
+    key = "scolipede_hearts_lc",
+    path = "scolipede_hearts_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "scolipede_hearts_hc",
+    path = "scolipede_hearts_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "ScolipedeHearts",
+    suit = "Hearts",
+    loc_txt = "Scolipede",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_hearts_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_hearts_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Scolipede, Spades ) ///////////////////
+
+SMODS.Atlas {
+    key = "scolipede_spades_lc",
+    path = "scolipede_spades_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "scolipede_spades_hc",
+    path = "scolipede_spades_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "ScolipedeSpades",
+    suit = "Spades",
+    loc_txt = "Scolipede",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_spades_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_scolipede_spades_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Empoleon, Clubs ) ///////////////////
+
+SMODS.Atlas {
+    key = "empoleon_clubs_lc",
+    path = "empoleon_clubs_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "empoleon_clubs_hc",
+    path = "empoleon_clubs_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "EmpoleonClubs",
+    suit = "Clubs",
+    loc_txt = "Empoleon",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_clubs_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_clubs_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Empoleon, Diamonds ) ///////////////////
+
+SMODS.Atlas {
+    key = "empoleon_diamonds_lc",
+    path = "empoleon_diamonds_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "empoleon_diamonds_hc",
+    path = "empoleon_diamonds_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "EmpoleonDiamonds",
+    suit = "Diamonds",
+    loc_txt = "Empoleon",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_diamonds_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_diamonds_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Empoleon, Hearts ) ///////////////////
+
+SMODS.Atlas {
+    key = "empoleon_hearts_lc",
+    path = "empoleon_hearts_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "empoleon_hearts_hc",
+    path = "empoleon_hearts_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "EmpoleonHearts",
+    suit = "Hearts",
+    loc_txt = "Empoleon",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_hearts_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_hearts_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Empoleon, Spades ) ///////////////////
+
+SMODS.Atlas {
+    key = "empoleon_spades_lc",
+    path = "empoleon_spades_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "empoleon_spades_hc",
+    path = "empoleon_spades_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "EmpoleonSpades",
+    suit = "Spades",
+    loc_txt = "Empoleon",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_spades_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_empoleon_spades_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Talonflame, Clubs ) ///////////////////
+
+SMODS.Atlas {
+    key = "talonflame_clubs_lc",
+    path = "talonflame_clubs_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "talonflame_clubs_hc",
+    path = "talonflame_clubs_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "TalonflameClubs",
+    suit = "Clubs",
+    loc_txt = "Talonflame",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_clubs_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_clubs_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Talonflame, Diamonds ) ///////////////////
+
+SMODS.Atlas {
+    key = "talonflame_diamonds_lc",
+    path = "talonflame_diamonds_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "talonflame_diamonds_hc",
+    path = "talonflame_diamonds_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "TalonflameDiamonds",
+    suit = "Diamonds",
+    loc_txt = "Talonflame",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_diamonds_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_diamonds_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Talonflame, Hearts ) ///////////////////
+
+SMODS.Atlas {
+    key = "talonflame_hearts_lc",
+    path = "talonflame_hearts_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "talonflame_hearts_hc",
+    path = "talonflame_hearts_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "TalonflameHearts",
+    suit = "Hearts",
+    loc_txt = "Talonflame",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_hearts_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_hearts_hc",
+            pos_style = "suit"
+        }
+    },
+}
+
+-- ///////////////// ( Talonflame, Spades ) ///////////////////
+
+SMODS.Atlas {
+    key = "talonflame_spades_lc",
+    path = "talonflame_spades_lc.png",
+    px = 71,
+    py = 95,
+}
+SMODS.Atlas {
+    key = "talonflame_spades_hc",
+    path = "talonflame_spades_hc.png",
+    px = 71,
+    py = 95,
+}
+
+SMODS.DeckSkin {
+    key = "TalonflameSpades",
+    suit = "Spades",
+    loc_txt = "Talonflame",
+    palettes = {
+        {
+            key = 'lc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_spades_lc",
+            pos_style = "suit"
+        },
+        {
+            key = 'hc',
+			ranks = {'2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', "King", "Ace",},
+            display_ranks = {"King", "Queen", "Jack"},
+            atlas = "finnplayingcards_talonflame_spades_hc",
+            pos_style = "suit"
         }
     },
 }
