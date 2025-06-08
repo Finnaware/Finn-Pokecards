@@ -22,3 +22,4 @@ Then extract the folder, and move them to your Balatro mods folder
 ## Credits
 
 Shiny colors taken from [PDM Sprite Collab](https://sprites.pmdcollab.org/#/)
+nguyenlouis32 in sketchfab for uploading the majority of pokemon models there (helped a lot in referencing the side view of pokemons)
