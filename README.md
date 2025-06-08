@@ -18,3 +18,7 @@ Then extract the folder, and move them to your Balatro mods folder
 6. Empoleon Evolution Line
 7. Scolipede Evolution Line
 8. Talonflame Evolution Line
+
+## Credits
+
+Shiny colors taken from [PDM Sprite Collab](https://sprites.pmdcollab.org/#/)
