@@ -7,7 +7,7 @@
 --- PRIORITY: -248
 --- BADGE_COLOR: B30245
 --- DISPLAY_NAME: Finn's Pokécards
---- VERSION: 4.1.0
+--- VERSION: 4.1.1
 
 SMODS.Atlas {
     key = 'modicon',
