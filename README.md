@@ -8,16 +8,24 @@ Click the "<> Code" button then click "Download zip"
 
 Then extract the folder, and move them to your Balatro mods folder
 
-## Currently adds
+## Currently adds the following evolution lines
 
-1. Delphox Evolution Line
-2. Primarina Evolution Line
-3. Meowscarada Evolution Line
-4. Goodra Evolution Line
-5. Flygon Evolution Line
-6. Empoleon Evolution Line
-7. Scolipede Evolution Line
-8. Talonflame Evolution Line
+1. Delphox
+2. Primarina
+3. Meowscarada
+4. Goodra
+5. Flygon
+6. Empoleon
+7. Scolipede
+8. Talonflame
+9. Leavanny 
+10. Charizard
+11. Metagross
+12. Vikavolt
+13. Cindarace
+14. Typhosion
+15. Hydrapple
+16. Decidueye
 
 ## Credits
 
