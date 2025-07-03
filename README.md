@@ -1,5 +1,7 @@
 Adds pokémon playing cards!
 
+Requires [Steamodded](https://github.com/Steamodded/smods)
+
 Also joins us on our Thread in the official Balatro discord [here](https://discord.com/channels/1116389027176787968/1326197297553342505)
 
 ## How to download and install
